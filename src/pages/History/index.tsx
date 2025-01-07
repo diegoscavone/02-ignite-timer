@@ -1,11 +1,10 @@
-import { HistoryContainer, HistoryList, Status } from "./style";
+import { HistoryContainer, HistoryList, Status } from './style'
 
 export function History() {
   return (
     <HistoryContainer>
       <h1>Meu histórico</h1>
       <HistoryList>
-
         <table>
           <thead>
             <tr>
